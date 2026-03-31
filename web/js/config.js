@@ -1,0 +1,14 @@
+export const FLAG_HEIGHT = 1.4;
+export const FLAG_WIDTH = FLAG_HEIGHT * 1.9;
+export const POLE_HEIGHT = 4.6;
+export const POLE_RADIUS = 0.035;
+export const COLS = 44;
+export const ROWS = 28;
+export const N = ROWS * COLS;
+export const GRAVITY = -1.2;
+export const DAMPING = 0.997;
+export const SUBSTEPS = 3;
+export const CONSTRAINT_ITERS = 5;
+export const DRAG_COEFF = 50;
+export const CLOTH_THICKNESS = 0.035;
+export const PHYS_DT = 1 / 60;

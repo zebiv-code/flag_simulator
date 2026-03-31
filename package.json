@@ -1,0 +1,15 @@
+{
+    "name": "flag-simulator",
+    "version": "1.0.0",
+    "description": "3D US flag on a flagpole with adjustable wind direction and speed",
+    "author": "Bill Heyman <bill@heyman.ai>",
+    "license": "MIT",
+    "homepage": "https://zebiv.com/flag-simulator/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zebiv-code/flag_simulator"
+    },
+    "scripts": {
+        "start": "npx serve web -l 3000"
+    }
+}
